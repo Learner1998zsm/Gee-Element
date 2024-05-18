@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress';
 
-// https://vitepress.dev/reference/site-config
+//  https://vitepress.dev/reference/site-config
 export default defineConfig({
 	title: 'Gee-Element',
 	description: '高仿 ElementPlus 组件库',
